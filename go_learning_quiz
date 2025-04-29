@@ -1,0 +1,13 @@
+
+
+Functions:
+Can named return values be again specified in the return statement
+Can other values be returned from a function instead of the named return values
+
+Named return values:
+Does go allow named return values to be explicitly specified in return
+Does go allow named return values to be replaced by some other values
+
+Maps:
+When retrieving a value from a map, can the second ok parameter can be implicitly ignored?
+What are the constructs in golang where implicitly ignoring second return value is allowed? map retrieves, channel receives, type assertions  
